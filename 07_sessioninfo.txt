@@ -1,0 +1,37 @@
+R version 4.0.2 (2020-06-22)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Catalina 10.15.7
+
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRblas.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.0/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rsq_2.1            ggpubr_0.4.0       rstatix_0.7.0      data.table_1.14.2 
+ [5] patchwork_1.1.1    lme4_1.1-27.1      Matrix_1.3-2       forcats_0.5.1     
+ [9] stringr_1.4.0      dplyr_1.0.7        purrr_0.3.4        readr_2.0.2       
+[13] tidyr_1.1.4        tibble_3.1.5       ggplot2_3.3.5      tidyverse_1.3.1   
+[17] RColorBrewer_1.1-2 heatmap3_1.1.9     car_3.0-11         carData_3.0-4     
+
+loaded via a namespace (and not attached):
+ [1] httr_1.4.2         jsonlite_1.7.2     splines_4.0.2      modelr_0.1.8      
+ [5] assertthat_0.2.1   cellranger_1.1.0   pillar_1.6.3       backports_1.2.1   
+ [9] lattice_0.20-41    glue_1.4.2         ggsignif_0.6.3     rvest_1.0.1       
+[13] minqa_1.2.4        colorspace_2.0-2   pkgconfig_2.0.3    broom_0.7.9       
+[17] haven_2.4.3        scales_1.1.1       openxlsx_4.2.4     rio_0.5.27        
+[21] tzdb_0.1.2         generics_0.1.0     ellipsis_0.3.2     withr_2.4.2       
+[25] fastcluster_1.1.25 cli_3.0.1          magrittr_2.0.1     crayon_1.4.1      
+[29] readxl_1.3.1       fs_1.5.0           fansi_0.5.0        nlme_3.1-151      
+[33] MASS_7.3-53        xml2_1.3.2         foreign_0.8-81     tools_4.0.2       
+[37] hms_1.1.1          lifecycle_1.0.1    munsell_0.5.0      reprex_2.0.1      
+[41] zip_2.2.0          Deriv_4.1.2        compiler_4.0.2     rlang_0.4.11      
+[45] grid_4.0.2         nloptr_1.2.2.2     rstudioapi_0.13    boot_1.3-26       
+[49] gtable_0.3.0       abind_1.4-5        DBI_1.1.1          curl_4.3.2        
+[53] R6_2.5.1           lubridate_1.7.10   utf8_1.2.2         stringi_1.7.4     
+[57] Rcpp_1.0.7         vctrs_0.3.8        dbplyr_2.1.1       tidyselect_1.1.1  
