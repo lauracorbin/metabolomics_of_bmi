@@ -1,5 +1,7 @@
 # metabolomics_of_bmi
-Repo containing code used in the publication: A multi-variant recall-by-genotype study of the metabolomic signature of body mass index
+Repo containing code used in the publication: 
+
+"A multi-variant recall-by-genotype study of the metabolomic signature of BMI" published in Obesity (DOI: 10.1002/oby.23441).
 
 This study used data from the Avon Longitudinal Study of Parents and Children (application number B3194).
 
